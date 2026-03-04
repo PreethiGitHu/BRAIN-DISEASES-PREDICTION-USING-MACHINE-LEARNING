@@ -109,14 +109,28 @@ The model performance is evaluated using:
 ## 📂 Project Structure
 
 ```
-Brain-Disease-Detection
+Brain-Disease-Prediction
+│
+├── README.md
+├── requirements.txt
 │
 ├── dataset
+│
 ├── models
-├── images
-├── app.py
-├── requirements.txt
-└── README.md
+│   ├── Alzheimer_Model.h5
+│   ├── Parkinson.h5
+│   └── brainmodel.h5
+│
+├── src
+│   ├── app.py
+│   ├── Brain.py
+│   ├── Alzheimer.py
+│   ├── Parkinson.py
+│   ├── brainapp.py
+│   ├── Alzheimerapp.py
+│   └── Parkinsonapp.py
+│
+└── background
 ```
 
 ---
