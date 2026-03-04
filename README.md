@@ -123,19 +123,7 @@ Brain-Disease-Detection
 
 ## 📸 Screenshots
 
-Add your project screenshots inside an **images folder**.
-
-```
-images/
-   app.png
-   result.png
-```
-
-Example:
-
-```
-![App Screenshot](images/app.png)
-```
+<img width="946" height="367" alt="Image" src="https://github.com/user-attachments/assets/c0aa3d82-f490-4c06-9987-bd6824c540f8" />
 
 ---
 
