@@ -135,6 +135,13 @@ Brain-Disease-Detection
 <img width="868" height="386" alt="Image" src="https://github.com/user-attachments/assets/f0b7d4ba-6947-4fbf-9f96-7cdf5d598305" />
 
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c803a484-be2f-4e9b-ac39-76bf14b2571f" />
+
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/20f4f5fa-1de5-4334-987a-a24fa5b0213a" />
+
+
+
 ---
 
 ## ⚙️ How to Run the Project
