@@ -178,3 +178,7 @@ This project is based on **MRI brain disease datasets and deep learning models f
 **Preethi S**
 M.Sc Computer Science
 Madurai Kamaraj University
+
+---
+
+**Document**-[Brain Disease detection Doc (1).pdf](https://github.com/user-attachments/files/25746118/Brain.Disease.detection.Doc.1.pdf)
